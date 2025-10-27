@@ -134,7 +134,7 @@ public:
             puts(pname[i]);
             cout<<"Passenger age:"<<age[i];
         }
-
+testtt
         cout<<"\nYour class:";
         puts(clas);
         cout<<"\nDate of reservation:"<<d<<"-"<<m<<"-"<<y;
@@ -723,3 +723,4 @@ void manage()
     while(ch<=3);
     getch();
 }
+
